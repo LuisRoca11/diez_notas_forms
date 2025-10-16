@@ -1,0 +1,11 @@
+C:\Users\luis1\source\repos\diez_notas_forms\diez_notas_forms\obj\Debug\diez_notas_forms.csproj.AssemblyReference.cache
+C:\Users\luis1\source\repos\diez_notas_forms\diez_notas_forms\obj\Debug\diez_notas_forms.Form1.resources
+C:\Users\luis1\source\repos\diez_notas_forms\diez_notas_forms\obj\Debug\diez_notas_forms.Properties.Resources.resources
+C:\Users\luis1\source\repos\diez_notas_forms\diez_notas_forms\obj\Debug\diez_notas_forms.csproj.GenerateResource.cache
+C:\Users\luis1\source\repos\diez_notas_forms\diez_notas_forms\obj\Debug\diez_notas_forms.csproj.CoreCompileInputs.cache
+C:\Users\luis1\source\repos\diez_notas_forms\diez_notas_forms\bin\Debug\diez_notas_forms.exe.config
+C:\Users\luis1\source\repos\diez_notas_forms\diez_notas_forms\bin\Debug\diez_notas_forms.exe
+C:\Users\luis1\source\repos\diez_notas_forms\diez_notas_forms\bin\Debug\diez_notas_forms.pdb
+C:\Users\luis1\source\repos\diez_notas_forms\diez_notas_forms\obj\Debug\diez_notas_forms.exe
+C:\Users\luis1\source\repos\diez_notas_forms\diez_notas_forms\obj\Debug\diez_notas_forms.pdb
+C:\Users\luis1\source\repos\diez_notas_forms\diez_notas_forms\obj\Debug\diez_notas_forms.exe.config
